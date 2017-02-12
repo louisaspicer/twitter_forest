@@ -1,4 +1,19 @@
-# Twitter Forest
+Twitter Forest
+=================
+A virtual forest that starts to grow depending on how many tweets have been written with a particular word in them.
+
+Technologies used:
+-------
+- Javascript
+- Jquery
+- CSS
+- Bootstrap
+- Twitter API
+- Jasmine for testing
+
+User Stories:
+-------
+
 ```
 As a user
 So that I can track my interests
